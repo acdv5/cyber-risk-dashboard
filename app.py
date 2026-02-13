@@ -45,7 +45,7 @@ with tab1:
     col_input, col_results = st.columns([1, 1])
     
     with col_input:
-        st.subheader("📝 Paramètres du Risque")
+        st.subheader("Paramètres du Risque")
         
         # Sélection du type de risque (avec exemples pré-configurés)
         risk_type = st.selectbox(
@@ -431,7 +431,7 @@ with tab4:
     st.header("ℹ️ Méthodologie et Formules")
     
     st.markdown("""
-    ### 📖 Concepts Clés
+    ### Concepts Clés
     
     #### ALE (Annual Loss Expectancy)
     L'**ALE** représente la perte financière annuelle attendue pour un risque donné.
@@ -472,7 +472,7 @@ with tab4:
     
     ---
     
-    ### 🎯 Interprétation du ROI
+    ### Interprétation du ROI
     
     - **ROI > 100%** : Investissement **très rentable** ✅
     - **ROI entre 0% et 100%** : Investissement **rentable** ✅
@@ -480,7 +480,7 @@ with tab4:
     
     ---
     
-    ### 📚 Références
+    ### Références
     
     - **ISO/IEC 27005** : Gestion des risques en sécurité de l'information
     - **NIST SP 800-30** : Guide for Conducting Risk Assessments
@@ -489,7 +489,7 @@ with tab4:
     
     ---
     
-    ### 👨‍💻 À propos
+    ### À propos
     
     **Dashboard développé par** : Arnaud Champierre de Villeneuve
     
