@@ -86,7 +86,7 @@ cyber-risk-dashboard/
 
 ## Auteur
 
-**Arnaud Champierre de Villeneuve**
+**acdv5**
 
 ## Licence
 
