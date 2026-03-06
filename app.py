@@ -491,8 +491,6 @@ with tab4:
     
     ### À propos
     
-    **Dashboard développé par** : Arnaud Champierre de Villeneuve
-    
     **Technologies** : Python, Streamlit, Plotly
     
     **Contact** : arnauddvpro@gmail.com
